@@ -2,4 +2,6 @@ data
 .ipynb_checkpoints
 .DS_Store
 *.pth
+images/
+neatevolve.lua
 finalpaper/
