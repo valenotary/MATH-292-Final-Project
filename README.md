@@ -1,5 +1,6 @@
 # MATH-292-Final-Project
  An implementation of NEAT for RL tasks in Gym
+ 
  Some useful tips and links to getting started:
 1. All notebooks work out of the box, so long as you have the required dependencies. Either refer to the list below, or just pull up pip to install the modules listed in the import cell of each notebook.
 2. https://gym.openai.com/docs/ <-- Basic setup of OpenAI-Gym (Need Atari and Box2D)
